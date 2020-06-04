@@ -11,5 +11,5 @@ The particles are redirected by the player using effectors. The effectors have a
 ![](Screenshots/Screen2Auditorium.png)
 
 As the game goes on, the number of effectors and music boxes to fill increases.
-The game uses ScriptableObjects to store data and game events to allow interactions between different scenes.
+The game uses ScriptableObjects to store data and game events to allow interactions among different scenes.
 ![](Screenshots/Screen3Auditorium.png)
